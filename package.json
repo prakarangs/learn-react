@@ -9,6 +9,7 @@
   "author": "Kao",
   "license": "ISC",
   "dependencies": {
+    "jquery": "2.2.1",
     "webpack": "1.12.14"
   }
 }

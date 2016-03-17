@@ -1,1 +1,3 @@
-console.log('lode from file module1.js');
+var $ = require('jquery');
+
+$('h1').html('I use jQuery!');

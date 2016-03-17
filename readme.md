@@ -52,5 +52,8 @@ Minify your main.js in NODE_ENV=production
 		$ NODE_ENV=production webpack
 
 		
+You can also install jQuery via `npm` and require to use jQuery in different module file.
+However, jQuery won't be in global scope at all because webpack will use jQuery in module that it needs jQuery only.
 
 More awesome introduction: http://blog.madewithlove.be/post/webpack-your-bags/
+
