@@ -1,0 +1,1 @@
+console.log('lode from file module1.js');
